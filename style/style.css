@@ -1,0 +1,27 @@
+html,body{
+    color: #999999 !important;
+}
+.sidebar-border{
+    border-right: 2px solid #797272;
+}
+
+.designest-height{
+height: 260px;
+border: 2px solid #393939;
+width: 32% !important;
+margin-right: 5px !important; 
+background: #2c2c2c;
+}
+
+.background-dark{
+    background: #1f1f1f;
+}
+
+.remove-padding{
+    padding: 0px !important;
+}
+
+.setbtnpadding{
+padding-top: 60px;
+padding-left: 40px;
+}
