@@ -33,6 +33,7 @@
     "react-redux": "^5.0.5",
     "react-router": "2.0.1",
     "react-select": "^1.0.0-rc.5",
+    "react-sparklines": "^1.6.0",
     "redux": "^3.7.0",
     "redux-promise": "^0.5.3"
   }
